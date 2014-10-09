@@ -1,4 +1,4 @@
-#
+# Copyright (C) 2014 Hazy Project
 # Copyright (C) 2012 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_i9300.mk \
-    $(LOCAL_DIR)/hazy_i9300.mk
+    $(LOCAL_DIR)/aosp_jfltexx.mk \
+    $(LOCAL_DIR)/hazy_jfltexx.mk
