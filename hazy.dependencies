@@ -1,22 +1,32 @@
 [
   {
-    "repository": "android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common"
+    "remote": "github",
+    "repository": "HazyTeam/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "kitkat"
   },
   {
-    "repository": "android_device_samsung_msm8960-common",
-    "target_path": "device/samsung/msm8960-common"
+    "remote": "github",
+    "repository": "HazyTeam/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "revision": "kitkat"
   },
   {
-    "repository": "android_device_samsung_jf-common",
-    "target_path": "device/samsung/jf-common"
+    "remote": "github",
+    "repository": "HazyTeam/android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "revision": "kitkat"
   },
   {
-    "repository": "android_kernel_samsung_jf",
-    "target_path": "kernel/samsung/jf"
+    "remote": "github",
+    "repository": "HazyTeam/android_kernel_samsung_jf",
+    "target_path": "kernel/samsung/jf",
+    "revision": "kitkat"
   },
   {
-    "repository": "android_hardware_samsung",
-    "target_path": "hardware/samsung"
+    "remote": "github"
+    "repository": "HazyTeam/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "kitkat"
   }
 ]
