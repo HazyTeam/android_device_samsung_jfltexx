@@ -24,7 +24,7 @@
     "revision": "kitkat"
   },
   {
-    "remote": "github"
+    "remote": "github",
     "repository": "HazyTeam/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "revision": "kitkat"
